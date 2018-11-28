@@ -1,0 +1,26 @@
+{
+  "name": "imagemin-sharp",
+  "version": "1.0.0",
+  "description": "sharp imagemin plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samithks/imagemin-sharp.git"
+  },
+  "keywords": [
+    "imagemin",
+    "sharp"
+  ],
+  "author": "Samith K S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samithks/imagemin-sharp/issues"
+  },
+  "homepage": "https://github.com/samithks/imagemin-sharp#readme",
+  "dependencies": {
+    "sharp": "0.21.0"
+  }
+}
